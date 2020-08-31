@@ -1,9 +1,9 @@
 {
-  "posts": [
+  "withdraw": [
     {
-      "id": 1,
-      "title": "hello"
-    }
+    "status_code": 1,
+    "status_message": "831966657|1234"
+}
   ],
   "profile": {
     "name": "typicode"
